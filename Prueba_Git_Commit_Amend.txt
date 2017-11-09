@@ -6,15 +6,5 @@ Segunda prueba commit 1
 
 Segunda prueba commit 2
 
-<<<<<<< HEAD
 Tercera prueba Commit 3
 
-Estado al que quiero volver tras cagarla
-
-La cago
-
-||||||| bfc7957... Tercera prueba Commit 3
-Tercera prueba Commit 3
-=======
-Tercera prueba Commit Amend
->>>>>>> parent of bfc7957... Tercera prueba Commit 3
