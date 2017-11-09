@@ -8,4 +8,3 @@ Segunda prueba commit 2
 
 Tercera prueba Commit 3
 
-A por el revert limpio... esto tiene que desaparecer
